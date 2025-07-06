@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/.idea/runConfigurations.xml
+
+
+target/
+*/target/**
+Reports/allure-results
+Reports/allure-report
+**/RunnerTest.java
+src/test/java/RunnerTest.java
+.gradle
+allure-results/
+.idea/*
+desktop.ini
+.idea/misc.xml
+.idea/jarRepositories.xml
+.idea/encodings.xml
+node_modules/

@@ -1,0 +1,7 @@
+{
+  "QA": [
+    {
+      "TARGET_GENDERIZE_API": "https://api.genderize.io"
+    }
+  ]
+}
